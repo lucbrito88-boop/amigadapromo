@@ -1,0 +1,6 @@
+{
+  "name": "Promoções do Dia - Grupo de Ofertas",
+  "description": "Landing page mobile-first de alta conversão para o grupo de ofertas e achadinhos da Promoções do Dia no WhatsApp e Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
