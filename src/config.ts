@@ -53,8 +53,8 @@ export const DEFAULT_CONFIG: AppConfig = {
     finalCtaText: "Entre agora e receba as próximas ofertas selecionadas.",
   },
   links: {
-    WHATSAPP_GROUP_URL: "https://chat.whatsapp.com/exemplopromocoes", // Substitua pelo link real do seu grupo
-    TELEGRAM_GROUP_URL: "https://t.me/exemplopromocoes",             // Substitua pelo link real do Telegram
+    WHATSAPP_GROUP_URL: "https://chat.whatsapp.com/Hp8EcytbnZ0KMyTfPTaslC",
+    TELEGRAM_GROUP_URL: "https://t.me/amigaprecinho",
     INSTAGRAM_URL: "https://instagram.com/promocoesdodia",
     PRIVACY_POLICY_URL: "",
     TERMS_URL: "",
